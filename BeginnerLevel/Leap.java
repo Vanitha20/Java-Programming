@@ -5,7 +5,7 @@ try{
 int n=0;
 Scanner s=new Scanner(System.in);
 n=s.nextInt();
-if(n%2==0){
+if(n%4==0){
 System.out.println("Leap Year");
 }
 else
