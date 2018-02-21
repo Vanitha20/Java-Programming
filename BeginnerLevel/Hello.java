@@ -10,7 +10,7 @@ System.out.println("Hello");
 }
 }
 catch(Exception e){
-  System.out.println("invalid input");
+  System.out.println("enter input as number");
   }
   }
 }
