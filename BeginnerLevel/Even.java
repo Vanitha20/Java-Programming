@@ -13,11 +13,11 @@ else
 System.out.println("Odd");
 }
 else
-System.out.println("invaild input");
+System.out.println("invalid input");
 }
 catch(Exception e)
 {
-System.out.println("invaild input");
+System.out.println("enter input as number");
 }
 }
 }
