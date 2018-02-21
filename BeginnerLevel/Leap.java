@@ -12,7 +12,7 @@ else
 System.out.println("Not a Leap Year");
 }
 catch(EException e){
-System.out.println("invalid input");
+System.out.println("enter input as number");
 }
 }
 }
