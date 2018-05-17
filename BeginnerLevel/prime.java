@@ -17,7 +17,7 @@ else
 System.out.println("No");
 }
 else
-System.out.println("enter input within the range");
+System.out.println("No");
 }
 catch(Exception e){
 System.out.println("invaild input");
