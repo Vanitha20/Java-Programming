@@ -7,7 +7,7 @@ System.out.println("enter two numbers");
 int n=s.nextInt();
 int m=s.nextInt();
 for(int i=n+1;i<=m;i++){
-if(i%2!=0)
+if(i%2==0)
 System.out.print(i+" ");
 }
 }
