@@ -10,7 +10,7 @@ else
 System.out.println("no");
 }
 catch(Exception e){
-System.out.println(Invalid input");
+System.out.println("Invalid input");
 }
 }
 }
