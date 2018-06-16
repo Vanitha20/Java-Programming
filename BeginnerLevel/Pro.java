@@ -9,7 +9,7 @@ int v=n*m;
 if(v%2==0)
 System.out.println("even");
 else
-System.out.println("odd);
+System.out.println("odd");
 }
 catch(Exception e){
 System.out.println("Invalid input");
